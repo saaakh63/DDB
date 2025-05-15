@@ -5,7 +5,11 @@
 This project demonstrates a basic **Distributed Database System** using the **Go programming language**. It features a **master-slave architecture**, where one master node controls multiple slave (Snap) nodes. The system replicates SQL commands from the master to the slaves to maintain data consistency.
 
 ---
+## 🏗️ System Architecture
 
+![System Architecture](structure.jpg)
+
+---
 ## Key Features
 
 -  **Master-Slave Architecture**
